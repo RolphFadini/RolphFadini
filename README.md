@@ -1,8 +1,6 @@
-### Hi there! I'm Rolph da Luz Fadini 👋
+### Hi there! I'm Rolph Fadini 👋
 
-- 🌱 I’m currently learning JavaScript, HTML and CSS
-- 🤔 I’m looking for help with everything
-- 📫 How to reach me: rolphfadini@hotmail.com
+##
 
 <div align="center">
   <a href="https://github.com/RolphFadini">
