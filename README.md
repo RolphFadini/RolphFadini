@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there! I'm Rolph da Luz Fadini 👋
 
-<!--
-**RolphFadini/RolphFadini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning JavaScript, HTML and CSS
+- 🤔 I’m looking for help with everything
+- 📫 How to reach me: rolphfadini@hotmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/RolphFadini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RolphFadini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RolphFadini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rolph-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rolph-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rolph-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="BreakDance" height="140" width="140" src="https://media.discordapp.net/attachments/823002948324818996/960994179553579049/Breakdance.gif?width=495&height=473">
+</div>
+  
+  ##
+  
+<div>  
+  <a href = "mailto:rolphfadini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+    ![Snake animation](https://github.com/RolphFadini/RolphFadini/blob/output/github-contribution-grid-snake.svg)
+  
+</div>  
