@@ -1,13 +1,16 @@
 ### Hi there! I'm Rolph Fadini 👋
-
 ##
 
 <div align="center">
   <a href="https://github.com/RolphFadini">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rolphfadini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rolphfadini&layout=compact&langs_count=7&theme=dracula"/>
+<!--
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RolphFadini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  -->
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=RolphFadini&locale=en&theme=dracula&hide_border=false"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RolphFadini&layout=compact&langs_count=7&theme=dracula"/>
+
 </div>
-  
+ 
  ##
   
 <div style="display: inline_block"><br>
@@ -23,6 +26,6 @@
   <a href = "mailto:rolphfadini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rolph-fadini-28b229249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-![Snake animation](https://github.com/RolphFadini/RolphFadini/blob/output/github-contribution-grid-snake.svg)
+ <!-- ![Snake animation](https://github.com/RolphFadini/RolphFadini/blob/output/github-contribution-grid-snake.svg) --> 
   
 </div>  
